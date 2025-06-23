@@ -1,0 +1,25 @@
+/* Enter your custom styles here */
+.page1{
+    background-image: url('../images/m_Login.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.vbox1{
+     background-image: url('../images/logo1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.images2{
+    margin-right: 10px;
+}
+
+#header-shellArea{
+    display: none;
+}
+
+@media (max-width: 768px) {
+  #logoImage {
+    width: 80px !important;
+  }
+}
